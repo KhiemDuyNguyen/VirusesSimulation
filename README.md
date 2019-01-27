@@ -1,7 +1,13 @@
 # VirusesSimulation
-[Problem set on MIT edx Data Science course] Using Python and Pylab, you will design and implement a stochastic simulation of patient and virus population dynamics, and reach conclusions about treatment regimens based on the simulation results.
+### [Problem set on MIT edx Data Science course] 
+Using Python and Pylab, you will design and implement a stochastic simulation of patient and virus population dynamics, and reach conclusions about treatment regimens based on the simulation results.
 
-Background: Viruses, Drug Treatments, and Computational Models
+### Software
+- A Python-based flatform integrated development environment and pylab will be needed. Version: 3.6.
+- Recommend: Spyder by Anaconda
+
+### Background: 
+Viruses, Drug Treatments, and Computational Models
 Viruses such as HIV and H1N1 represent a significant challenge to modern medicine. One of the reasons that they are so difficult to treat is their ability to evolve.
 
 As you may know from introductory biology classes, the traits of an organism are determined by its genetic code. When organisms reproduce, their offspring will inherit genetic information from their parent. This genetic information will be modified, either because of mixing of the two parents' genetic information, or through mutations in the genome replication process, thus introducing diversity into a population.
@@ -14,3 +20,9 @@ Computational modeling has played an important role in the study of viruses such
 
 Spread of a Virus in a Person
 In reality, diseases are caused by viruses and have to be treated with medicine, so in the remainder of this problem set, we'll be looking at a detailed simulation of the spread of a virus within a person. We've provided you with skeleton code in ps3b.py.
+
+###Testing
+Uncomment some pre-coded lines to see the plots.
+
+###License
+This project is licensed under the MIT License - see the LICENSE.md file for details
