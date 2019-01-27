@@ -29,5 +29,10 @@ The project is divided into 2 seperated simulations.
 ### Testing
 Uncomment some pre-coded lines to see the plots.
 
+### Result Examples
+<img src="Result_Image/withoutDrug.png">
+
+<img src="Result_Image/withDrug.png">
+
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
