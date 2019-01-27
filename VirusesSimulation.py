@@ -1,4 +1,5 @@
 # Problem Set 3: Simulating the Spread of Disease and Virus Population Dynamics 
+# MIT course has already provided detailed descriptions for each classes, which helps a lot when coding and testing.
 
 import random
 import pylab
