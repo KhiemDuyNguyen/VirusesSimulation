@@ -20,9 +20,14 @@ Computational modeling has played an important role in the study of viruses such
 
 Spread of a Virus in a Person
 In reality, diseases are caused by viruses and have to be treated with medicine, so in the remainder of this problem set, we'll be looking at a detailed simulation of the spread of a virus within a person. We've provided you with skeleton code in ps3b.py.
+ 
+### Classs Explains
+The project is divided into 2 seperated simulations.
+- **simulationWithoutDrug** use **Patient** and **SimpleViruses** to create the relationship between patience and growth of viruses without any effect or resisitance of drug. 
+- On the other hand, **simulationWithDrug** use **TreatedPatient** and **ResistantVirus** to create the relationship between patience (taking drug) and growth of viruses (with ability to mutate to resist with drugs).
 
-###Testing
+### Testing
 Uncomment some pre-coded lines to see the plots.
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
